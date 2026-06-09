@@ -1,0 +1,8 @@
+# --- Compilazione e Binari ---
+# Esclude tutti i file oggetto (output della fase di compilazione)
+*.o
+*.obj
+# Esclude gli eseguibili
+bin/
+*.out
+*.exe
